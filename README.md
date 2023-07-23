@@ -4,7 +4,7 @@
 
 [UR Seismo](http://www.sas.rochester.edu/ees/urseismo/), Rochester, NY USA
 
-This repo contains several two-dimensional toy problems for which the distribution of an ensemble of models provided by a reversible jump Markov Chain Monte Carlo algorithm is learned using a Wasserstein generative adversarial network.
+This repo contains two-dimensional toy problems for which the distribution of an ensemble of models provided by a reversible jump Markov Chain Monte Carlo algorithm is learned using a Wasserstein generative adversarial network.
 
 ## Requirements
 
@@ -13,7 +13,8 @@ This repo contains several two-dimensional toy problems for which the distributi
 
 ## Data
 
-- Training dataset for each toy problem is provided inside the "data" folder. Because the dimensionality of the models in the ensemble must be fixed to train a generative adversarial network whose generator uses fully connected layers, each model in the ensemble is interpolated to obtain a two-dimensional image. 
+An example toy problem is provided inside the "data" folder. Due to space limitations, other two-dimensional toy problems are provided in [this Google Drive folder](https://drive.google.com/file/d/1G7moiSi-FI1KriPFF_4MSIx_bnHEx_mi/view?usp=sharing). 
+
 
 ## Use
 
