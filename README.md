@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/669880939.svg)](https://zenodo.org/badge/latestdoi/669880939)
 
-[Tolulope Olugboji](https://scholar.google.com/citations?user=GnxCk8EAAAAJ&hl=en), Enting Zhou, [Canberk Ekmekci](https://cekmekci.github.io/) 
+[Tolulope Olugboji](https://scholar.google.com/citations?user=GnxCk8EAAAAJ&hl=en), Enting Zhou, Walter Hennings, [Canberk Ekmekci](https://cekmekci.github.io/) 
 
 [UR Seismo](http://www.sas.rochester.edu/ees/urseismo/), Rochester, NY USA
 
